@@ -21,7 +21,7 @@
   </p>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/CoMoGaussian"><img src="https://img.shields.io/badge/CoMoGaussian-ProjectPage-blue.svg"></a>
-    <a href="https://arxiv.org/abs/2412.16028"><img src="https://img.shields.io/badge/CoMoGaussian-arXiv-red.svg"></a>
+    <a href="https://arxiv.org/abs/2503.05332"><img src="https://img.shields.io/badge/CoMoGaussian-arXiv-red.svg"></a>
     <a href="https://Jho-Yonsei.github.io/CoMoGaussian"><img src="https://img.shields.io/badge/CoMoGaussian-Dataset-green.svg"></a>
 </p>
   <div align="center"></div>
