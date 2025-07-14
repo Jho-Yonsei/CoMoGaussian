@@ -30,7 +30,21 @@
 
 ## 🔭 Introduction
 
-<table style="width:100%;">
+<p align="center">
+  <img src="./assets/images/teaser.png" alt="Teaser" width="80%">
+</p>
+
+| ![](./assets/images/images.png) | ![](./assets/gif/factory_3dgs.gif) | ![](./assets/gif/factory_comogaussian.gif) |
+|:--:|:--:|:--:|
+| Input Blurry Images | 3D Gaussian Splatting | **CoMoGaussian (Ours)** |
+
+<p align="center">
+  More results are provided in the  
+  <a href="https://Jho-Yonsei.github.io/CoMoGaussian/" target="_blank">Project Page</a>.
+</p>
+
+
+<!-- <table style="width:100%;">
   <tr>
     <td colspan="3" style="text-align:center; vertical-align:middle;">
       <img src="./assets/images/teaser.png" alt="Image">
@@ -58,7 +72,7 @@
       <a href="https://Jho-Yonsei.github.io/CoMoGaussian/" target="_blank">Project Page</a>.
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="justify">
   <strong>Abstract:</strong> 3D Gaussian Splatting (3DGS) has gained significant attention due to its high-quality novel view rendering, motivating research to address real-world challenges. 
