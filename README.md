@@ -4,7 +4,7 @@
   <br />Gaussian Splatting from Motion-Blurred Images
   <br />
 </h1>
-<h3 align="center">ICCV 2025</h3>
+<h3 align="center" style="color:#267CB9;">ICCV 2025</h3>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/">Jungho Lee </a><sup>1</sup>&nbsp;·&nbsp;
     Donghyeong Kim <sup>1</sup>&nbsp;·&nbsp;
