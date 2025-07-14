@@ -44,37 +44,8 @@
   More results are provided in the  
   <a href="https://Jho-Yonsei.github.io/CoMoGaussian/" target="_blank">Project Page</a>.
 </p>
+<br>
 
-
-<!-- <table style="width:100%;">
-  <tr>
-    <td colspan="3" style="text-align:center; vertical-align:middle;">
-      <img src="./assets/images/teaser.png" alt="Image">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle;">
-      <img src="./assets/images/images.png" alt="Image" style="height:150px;">
-    </td>
-    <td style="text-align:center; vertical-align:middle;">
-      <img src="./assets/gif/factory_3dgs.gif" alt="3DGS GIF" style="height:150px;">
-    </td>
-    <td style="text-align:center; vertical-align:middle;">
-      <img src="./assets/gif/factory_comogaussian.gif" alt="CoMoGaussian GIF" style="height:150px;">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">Input Blurry Images</td>
-    <td style="text-align:center;">3D Gaussian Splatting</td>
-    <td style="text-align:center;"><strong>CoMoGaussian (Ours)</strong></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align:center;">
-      More results are provided in the 
-      <a href="https://Jho-Yonsei.github.io/CoMoGaussian/" target="_blank">Project Page</a>.
-    </td>
-  </tr>
-</table> -->
 
 <p align="justify">
   <strong>Abstract:</strong> 3D Gaussian Splatting (3DGS) has gained significant attention due to its high-quality novel view rendering, motivating research to address real-world challenges. 
@@ -108,7 +79,7 @@ pip install -e ./submodules/diff-gaussian-rasterization-pose-backprob/
 pip install -e ./submodules/simple-knn/
 ```
 
-Please note that the ```diff-gaussian-rasterization-pose-backprop``` we provide is not completely same with the original [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting), as our CRiM kernel optimization requires gradient computation of camera poses. We referred [iComMa](https://github.com/YuanSun-XJTU/iComMa) repository and revised some parts of the cuda-coded backward computation of rasterization.
+Please note that the ```diff-gaussian-rasterization-pose-backprop``` we provide is not completely same with the original [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting), as our CoMoGaussian kernel optimization requires gradient computation of camera poses. We referred [iComMa](https://github.com/YuanSun-XJTU/iComMa) repository and revised some parts of the cuda-coded backward computation of rasterization.
 
 ## 📦 Datasets
 You can find the datasets with the SfM results on [Our Google Drive](https://drive.google.com/file/d/1htDfHqG_i0zMIzk3xBf07B7nDB4VYgSj/view?usp=drive_link). The ```real_camera_motion_blur``` ([Deblur-NeRF](https://github.com/limacv/Deblur-NeRF)), ```synthetic_camera_motion_blur``` ([Deblur-NeRF](https://github.com/limacv/Deblur-NeRF)), and ```exblurf_camera_motion_blur``` ([ExbluRF](https://github.com/taekkii/exblurf)) directories should be placed in the subdirectory of ```CoMoGaussian/dataset/```.
