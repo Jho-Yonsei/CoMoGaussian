@@ -30,42 +30,35 @@
 
 ## 🔭 Introduction
 
-<table style="width: 100%; table-layout: fixed; text-align: center; border-collapse: collapse;">
+<table style="width:100%;">
   <tr>
-    <td colspan="3" style="text-align: center; vertical-align: middle;">
-      <img src="./assets/images/teaser.png" alt="Teaser Image" style="max-width: 100%; height: auto;">
+    <td colspan="3" style="text-align:center; vertical-align:middle;">
+      <img src="./assets/images/teaser.png" alt="Image">
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: middle;">
-      <div>
-        <img src="./assets/images/images.png" alt="Input Image" style="max-width: 250px; width: 100%; height: auto;">
-      </div>
+    <td style="text-align:center; vertical-align:middle;">
+      <img src="./assets/images/images.png" alt="Image" style="height:180px;">
     </td>
-    <td style="vertical-align: middle;">
-      <div>
-        <img src="./assets/gif/factory_3dgs.gif" alt="3DGS GIF" style="max-width: 250px; width: 100%; height: auto;">
-      </div>
+    <td style="text-align:center; vertical-align:middle;">
+      <img src="./assets/gif/factory_3dgs.gif" alt="3DGS GIF" style="height:180px;">
     </td>
-    <td style="vertical-align: middle;">
-      <div>
-        <img src="./assets/gif/factory_comogaussian.gif" alt="CoMoGaussian GIF" style="max-width: 250px; width: 100%; height: auto;">
-      </div>
+    <td style="text-align:center; vertical-align:middle;">
+      <img src="./assets/gif/factory_comogaussian.gif" alt="CoMoGaussian GIF" style="height:180px;">
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;">Input Blurry Images</td>
-    <td style="text-align: center;">3D Gaussian Splatting</td>
-    <td style="text-align: center;"><strong>CoMoGaussian (Ours)</strong></td>
+    <td style="text-align:center;">Input Blurry Images</td>
+    <td style="text-align:center;">3D Gaussian Splatting</td>
+    <td style="text-align:center;"><strong>CoMoGaussian (Ours)</strong></td>
   </tr>
   <tr>
-    <td colspan="3" style="text-align: center; padding-top: 10px;">
+    <td colspan="3" style="text-align:center;">
       More results are provided in the 
       <a href="https://Jho-Yonsei.github.io/CoMoGaussian/" target="_blank">Project Page</a>.
     </td>
   </tr>
 </table>
-
 
 <p align="justify">
   <strong>Abstract:</strong> 3D Gaussian Splatting (3DGS) has gained significant attention due to its high-quality novel view rendering, motivating research to address real-world challenges. 
