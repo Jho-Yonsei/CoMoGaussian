@@ -34,9 +34,10 @@
   <img src="./assets/images/teaser.png" alt="Teaser" width="80%">
 </p>
 
-| ![](./assets/images/images.png) | ![](./assets/gif/factory_3dgs.gif) | ![](./assets/gif/factory_comogaussian.gif) |
+| <img src="./assets/images/images.png" width="250"> | <img src="./assets/gif/factory_3dgs.gif" width="250"> | <img src="./assets/gif/factory_comogaussian.gif" width="250"> |
 |:--:|:--:|:--:|
 | Input Blurry Images | 3D Gaussian Splatting | **CoMoGaussian (Ours)** |
+
 
 <p align="center">
   More results are provided in the  
