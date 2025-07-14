@@ -30,50 +30,16 @@
 
 ## 🔭 Introduction
 
-<table style="width: 100%; text-align: center;">
-  <!-- Teaser 이미지 (상단) -->
-  <tr>
-    <td colspan="3">
-      <img src="./assets/images/teaser.png" alt="Teaser" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
 
-  <!-- 세 가지 이미지 (입력 / 3DGS / Ours) -->
-  <tr>
-    <td><img src="./assets/images/images.png" width="250"></td>
-    <td><img src="./assets/gif/factory_3dgs.gif" width="250"></td>
-    <td><img src="./assets/gif/factory_comogaussian.gif" width="250"></td>
-  </tr>
-
-  <!-- 각 이미지에 대한 라벨 -->
-  <tr>
-    <td>Input Blurry Images</td>
-    <td>3D Gaussian Splatting</td>
-    <td><strong>CoMoGaussian (Ours)</strong></td>
-  </tr>
-
-  <!-- 하단 설명 링크 -->
-  <tr>
-    <td colspan="3" style="padding-top: 10px;">
-      More results are provided in the  
-      <a href="https://Jho-Yonsei.github.io/CoMoGaussian/" target="_blank">Project Page</a>.
-    </td>
-  </tr>
-</table>
-<!-- 
-<p align="center">
-  <img src="./assets/images/teaser.png" alt="Teaser">
-</p>
+| <img src="./assets/images/teaser.png" width="100%"> |  
+|:--:|
 
 | <img src="./assets/images/images.png" width="250"> | <img src="./assets/gif/factory_3dgs.gif" width="250"> | <img src="./assets/gif/factory_comogaussian.gif" width="250"> |
 |:--:|:--:|:--:|
 | Input Blurry Images | 3D Gaussian Splatting | **CoMoGaussian (Ours)** |
 
-
-<p align="center">
-  More results are provided in the  
-  <a href="https://Jho-Yonsei.github.io/CoMoGaussian/" target="_blank">Project Page</a>.
-</p> -->
+| [More results are provided in the Project Page](https://Jho-Yonsei.github.io/CoMoGaussian/) |
+|:--:|
 
 
 <!-- <table style="width:100%;">
