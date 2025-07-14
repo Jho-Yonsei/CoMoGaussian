@@ -38,13 +38,13 @@
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">
-      <img src="./assets/images/images.png" alt="Image" style="height:180px;">
+      <img src="./assets/images/images.png" alt="Image" style="height:150px;">
     </td>
     <td style="text-align:center; vertical-align:middle;">
-      <img src="./assets/gif/factory_3dgs.gif" alt="3DGS GIF" style="height:180px;">
+      <img src="./assets/gif/factory_3dgs.gif" alt="3DGS GIF" style="height:150px;">
     </td>
     <td style="text-align:center; vertical-align:middle;">
-      <img src="./assets/gif/factory_comogaussian.gif" alt="CoMoGaussian GIF" style="height:180px;">
+      <img src="./assets/gif/factory_comogaussian.gif" alt="CoMoGaussian GIF" style="height:150px;">
     </td>
   </tr>
   <tr>
