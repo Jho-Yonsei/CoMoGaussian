@@ -142,7 +142,7 @@ python3 create_fused_ply.py -m <model saving path> --output_ply <ply saving path
 ## 🌟 Acknowledgements
 Our repository is built upon [Mip-Splatting](https://github.com/autonomousvision/mip-splatting) and [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting). The gradient computation of camera poses and pixel-wise weight are influenced by [iComMa](https://github.com/YuanSun-XJTU/iComMa) and [BAGS](https://github.com/snldmt/BAGS), respectively. We thank to all the authors for their awesome works.
 
-## BibTex
+## 📚 BibTex
 ```
 @article{lee2025comogaussian,
   title={CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images},
