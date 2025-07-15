@@ -75,7 +75,7 @@ conda activate comogaussian
 pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
 
-pip install -e ./submodules/diff-gaussian-rasterization-pose-backprob/
+pip install -e ./submodules/diff-gaussian-rasterization-pose-backprop/
 pip install -e ./submodules/simple-knn/
 ```
 
